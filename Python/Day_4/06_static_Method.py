@@ -1,4 +1,4 @@
-
+#Static Method Example
 class Student:
    
     @staticmethod

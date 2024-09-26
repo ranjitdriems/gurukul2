@@ -9,7 +9,7 @@
 
 
 
-# Funtional Programming (Increase reusability)
+# Funtional Programming (Increase reusability)#
 
 def sum(a , b):
     add = a + b

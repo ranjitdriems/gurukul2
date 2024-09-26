@@ -1,3 +1,4 @@
+# Class Creation
 class Student:
     collage_name = 'Gurukul'
 
